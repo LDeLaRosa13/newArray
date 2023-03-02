@@ -13,3 +13,5 @@ var thoughts = ["true", "false", "false", "true"];
 //the .push method would return the array back to its original length
 thoughts.push();
 console.log(thoughts);
+
+//Index positions are the place where each element is currently placed in an array. For example, in the drinks array, pepsi is in index position 0, coke is in index position 1, sprite is in index position 2, and rootbeer is in index position 3.
