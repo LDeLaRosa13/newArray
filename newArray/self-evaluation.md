@@ -1,0 +1,3 @@
+- So far, I feel pretty confident about arrays, methods, index positions, elements, etc.
+- No, I want to learn more but this is a good amount to start with.
+- I'm curious to know shortcuts for arrays and inputting data!
